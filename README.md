@@ -3,9 +3,9 @@
   
   <p>Hi there! 👋</p>
   
-  <p>Software Engineer at <a target="_blank" href="https://shop.ledger.com/?referral_code=B4F851XGS372E">Ledger</a> in Paris 🇫🇷</p>
+  <p>Software Engineer at <a target="_blank" href="https://www.zoi.com/">Zoī</a> in Paris 🇫🇷</p>
   
-  <p>Always looking for tallent, don't hesitate to <a target="_blank" href="https://refer.hellotrusty.io/Tn0dEZvrmA">join</a></p>
+  <p>Always looking for tallent, don't hesitate to <a target="_blank" href="https://www.zoi.com/recruitment">join</a></p>
 
 </div>
 
@@ -22,6 +22,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=fff)](https://nextjs.org/)
 [![Node.JS](https://img.shields.io/badge/NODE.JS-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#73AA60)](https://nodejs.org/)
 [![Jest](https://img.shields.io/badge/Jest-%2320232a.svg?style=for-the-badge&logo=Jest&logoColor=white)](https://jestjs.io/)
+[![NestJS](https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 
 ## Social 👥
 
