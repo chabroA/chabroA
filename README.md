@@ -3,9 +3,9 @@
   
   <p>Hi there! 👋</p>
   
-  <p>Software Engineer at <a target="_blank" href="https://www.zoi.com/">Zoī</a> in Paris 🇫🇷</p>
+  <p>Software Engineer at <a target="_blank" href="https://www.grapehealth.ch/en">grape</a> in Zürich 🇨🇭</p>
   
-  <p>Always looking for tallent, don't hesitate to <a target="_blank" href="https://www.zoi.com/recruitment">join</a></p>
+  <p>Always looking for tallent, don't hesitate to <a target="_blank" href="https://jobs.eu.lever.co/grape-health">join</a></p>
 
 </div>
 
@@ -23,12 +23,3 @@
 [![Node.JS](https://img.shields.io/badge/NODE.JS-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=#73AA60)](https://nodejs.org/)
 [![Jest](https://img.shields.io/badge/Jest-%2320232a.svg?style=for-the-badge&logo=Jest&logoColor=white)](https://jestjs.io/)
 [![NestJS](https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-
-## Social 👥
-
-[![Linkedin](https://img.shields.io/badge/-Alexandre%20Chabrolin-%2320232a.svg?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/alexandre-chabrolin/) 
-
-## Stats 📈
-
-<a target="_blank" href="https://github.com/chabroA"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chabroA&hide=stars&show_icons=true&theme=nord&count_private=true" /></a>
-
